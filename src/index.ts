@@ -1,2 +1,2 @@
-export { useState } from "./store/store";
-export { UseState, SubscribeAction, TaihouOptions } from "./interfaces";
+export { useAmagi } from "./amagi/amagi";
+export { UseAmagiPageProps } from "./interfaces";
